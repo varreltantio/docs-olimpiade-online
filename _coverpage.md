@@ -1,5 +1,5 @@
-![logo](_media/Bioetanol.png)
+![logo](\_media/Bioetanol.png | width=400)
 
-# Documentation Website Fasilkom Unej
+# Documentation Website Olimpiade Online
 
 [Website](https://olimpiade.leravio.com/)
