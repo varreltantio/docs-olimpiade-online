@@ -1,10 +1,13 @@
 ## Logo
 
-Buka dashboard admin terlebih dahulu, kemudian pilih `Appearance` lalu klik `KIDUM Options`.
+Buka URL berikut untuk login sebagai admin `https://olimpiade.leravio.com/auth/adminpanel`
 
-![Header 1](_images/header/header-1.png "Header 1")
+![Login](_images/admin/login.png "Login")
 
-klik `Logo Setting` untuk merubah logo.
+Isikan username dan password seperti berikut:
+
+Username: `adminexam@gmail.com`
+Password: `123456`
 
 ![Logo 1](_images/header/logo-1.png "Logo 1")
 
