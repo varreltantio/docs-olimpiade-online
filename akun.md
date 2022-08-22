@@ -9,7 +9,7 @@ Isikan username dan password seperti berikut:
 Username: `adminexam@gmail.com`
 Password: `123456`
 
-## Tambah Admin
+## Tambah Data Admin
 
 Masuk ke dalam menu `Dahsboard`. Setelah itu, klik tombol `More Info` pada bagian `Admin`
 
@@ -22,3 +22,13 @@ Lalu, klik tombol `Add Admin` untuk menambahkan data admin baru
 Kemudian, isikan data sesuai form yang diminta. Jika sudah bisa klik tombol `Save` untuk menyimpan data admin baru
 
 ![Tambah Admin](_images/akun/tambah_admin.png "Tambah Admin")
+
+## Ubah Data Admin
+
+Pada bagian menu sidebar klik nama `Admin` untuk menuju ke halaman ubah data admin.
+
+![Menu Admin](_images/akun/menu_admin.png "Menu Admin")
+
+Kemudian, isikan data yang ingin diubah sesuai form yang diminta. Jika sudah bisa klik tombol `Edit` untuk mengubah data admin
+
+![Ubah Admin](_images/akun/ubah_admin.png "Ubah Admin")
