@@ -4,6 +4,7 @@
   - [Guidelines](guidelines.md)
   - [Student](student.md)
   - [Subjects](subjects.md)
+  - [Exam](exam.md)
   - [Peserta](peserta.md)
   - [Admin](admin.md)
 
