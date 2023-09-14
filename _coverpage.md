@@ -1,5 +1,5 @@
-![logo](\_media/Bioetanol.png | width=400)
+![logo](_media/logo-leravio.webp)
 
 # Documentation Website Olimpiade Online
 
-[Website](https://olimpiade.leravio.com/)
+[Website](https://ujianonline.leravio.com/)

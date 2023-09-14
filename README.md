@@ -1,3 +1,3 @@
 ## Website Olimpiade Online
 
-![Homepage](_images/homepage.png "Homepage")
+![Homepage](_images/student/login.png "Homepage")

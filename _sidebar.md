@@ -1,11 +1,4 @@
-- Admin
-
-  - [Akun](akun.md)
-  - [Guidelines](guidelines.md)
-  - [Student](student.md)
-  - [Subjects](subjects.md)
-  - [Exam](exam.md)
-  - [Peserta](peserta.md)
-  - [Admin](admin.md)
-
-- Peserta
+- [Admin](admin.md)
+- [Guidelines](guidelines.md)
+- [Student](student.md)
+- [Exam](exam.md)

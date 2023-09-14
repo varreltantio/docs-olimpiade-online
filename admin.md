@@ -1,22 +1,34 @@
 ## Login
 
-Buka URL berikut untuk login sebagai admin `https://olimpiade.leravio.com/auth/adminpanel`
+Buka URL berikut untuk login sebagai admin `https://ujianonline.leravio.com/auth/adminpanel`
 
 ![Login](_images/admin/login.png "Login")
 
-Isikan username dan password seperti berikut:
+Isikan email dan password seperti berikut:
 
-Username: `adminexam@gmail.com`
+Email: `adminexam@gmail.com`
 Password: `123456`
 
-## Guidelines
+## Tambah Data Admin
 
-Guidelines berisi petunjuk tentang pengerjaan soal
+Masuk ke dalam menu `Dahsboard`. Setelah itu, klik tombol `More Info` pada bagian `Admin`
 
-![Guidelines](_images/admin/guidelines.png "Guidelines")
+![Dashboard](_images/admin/dashboard.png "Dashboard")
 
-## Student
+Lalu, klik tombol `Add Admin` untuk menambahkan data admin baru
 
-Buka dashboard admin terlebih dahulu, kemudian pilih `Appearance` lalu klik `Menus`.
+![Daftar Admin](_images/admin/daftar_admin.png "Daftar Admin")
 
-![Navbar 1](_images/header/navbar-1.png "Navbar 1")
+Kemudian, isikan data sesuai form yang diminta. Jika sudah bisa klik tombol `Save` untuk menyimpan data admin baru
+
+![Tambah Admin](_images/admin/tambah_admin.png "Tambah Admin")
+
+## Ubah Data Admin
+
+Pada bagian menu sidebar klik nama `Admin` untuk menuju ke halaman ubah data admin.
+
+![Menu Admin](_images/admin/menu_admin.png "Menu Admin")
+
+Kemudian, isikan data yang ingin diubah sesuai form yang diminta. Jika sudah bisa klik tombol `Edit` untuk mengubah data admin
+
+![Ubah Admin](_images/admin/ubah_admin.png "Ubah Admin")
