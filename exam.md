@@ -48,4 +48,6 @@ Nanti akan muncul detail ujian. Kemudian, klik tombol `Buat Pertanyaan`
 
 Kemudian, isi soal dan jawaban pada kolom yang tertera
 
+Untuk `nilai salah` harus diisi dibawah 1
+
 ![Atur Soal](_images/exam/atur_soal.png "Atur Soal")
